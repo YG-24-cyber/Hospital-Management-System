@@ -1,0 +1,4 @@
+1|1|1|25-01-2024|10:00|cancelled|Regular checkup for hypertension
+2|2|2|26-01-2024|14:30|scheduled|Diabetes management consultation
+3|4|1|12/05/2018|8:00|cancelled|he have apointtment
+4|4|4|12/6/2018|2:00|scheduled|we have appointment

@@ -1,0 +1,67 @@
+HOW TO RUN THE HOSPITAL MANAGEMENT SYSTEM
+==========================================
+
+IMPORTANT: hms.exe is an EXECUTABLE PROGRAM, not a text file!
+You CANNOT open it in a text editor. You must RUN it in the terminal.
+
+METHOD 1: Using Command Prompt or PowerShell
+---------------------------------------------
+1. Open Command Prompt or PowerShell
+2. Navigate to the project folder:
+   cd "C:\Users\Abusha\OneDrive\Desktop\ATM ass c++"
+3. Run the program:
+   hms.exe
+   OR
+   .\hms.exe
+
+METHOD 2: Using Windows File Explorer
+--------------------------------------
+1. Open File Explorer
+2. Navigate to: C:\Users\Abusha\OneDrive\Desktop\ATM ass c++
+3. Double-click on hms.exe
+   (Note: A terminal window will open automatically)
+
+METHOD 3: Using VS Code Terminal
+---------------------------------
+1. Open VS Code
+2. Open the terminal (Press Ctrl+` or View → Terminal)
+3. Make sure you're in the project folder
+4. Type: hms.exe
+5. Press Enter
+
+WHAT YOU'LL SEE:
+----------------
+When you run hms.exe, a terminal/console window will appear with:
+
+========================================
+   HOSPITAL MANAGEMENT SYSTEM
+========================================
+Welcome to the Hospital Management System
+
+1. Login
+2. Register
+3. Exit
+Enter your choice:
+
+This is where you interact with the program - type numbers and press Enter!
+
+TROUBLESHOOTING:
+----------------
+- If you see "hms.exe is not recognized":
+  → Make sure you're in the correct folder
+  → Use: .\hms.exe instead of just hms.exe
+
+- If a window opens and closes immediately:
+  → Run from Command Prompt/PowerShell so you can see any error messages
+  → Or add a pause at the end of your code (the program should pause automatically)
+
+- If you want to see the source code instead:
+  → Open main.cpp, User.cpp, Patient.cpp, etc. (these are text files)
+  → DO NOT try to open hms.exe in a text editor
+
+REMEMBER:
+---------
+✓ hms.exe = Executable program (RUN it)
+✓ .cpp and .h files = Source code (EDIT in text editor)
+✓ .txt files = Data files (VIEW/EDIT in text editor)
+

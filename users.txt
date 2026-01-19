@@ -1,0 +1,8 @@
+admin|admin123|admin
+doctor1|doc123|doctor
+patient1|pat123|patient
+
+tamrt|1122|admin
+tamrat|0505|admin
+hulluf|1122|doctor
+helen|g/her|admin

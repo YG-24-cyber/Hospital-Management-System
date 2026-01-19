@@ -1,0 +1,59 @@
+================================================================================
+            FILES TO SUBMIT TO YOUR TEACHER
+================================================================================
+
+REQUIRED FILES (Must Submit):
+-----------------------------
+
+SOURCE CODE FILES (10 files):
+1. main.cpp
+2. User.h
+3. User.cpp
+4. Patient.h
+5. Patient.cpp
+6. Doctor.h
+7. Doctor.cpp
+8. Appointment.h
+9. Appointment.cpp
+10. Billing.h
+11. Billing.cpp
+
+DOCUMENTATION (Important):
+12. README.md
+
+OPTIONAL BUT RECOMMENDED:
+-------------------------
+13. TESTING_GUIDE.md
+14. users.txt (sample data)
+15. patients.txt (sample data)
+16. doctors.txt (sample data)
+17. appointments.txt (sample data)
+18. bills.txt (sample data)
+
+DO NOT SUBMIT (unless teacher asks):
+------------------------------------
+- hms.exe (executable - too large, teacher can compile)
+- home.cpp (not part of this project)
+- compile.bat / compile.sh (optional)
+- HOW_TO_RUN.txt (optional)
+- QUICK_TEST.md (optional)
+
+================================================================================
+QUICK SUBMISSION STEPS:
+================================================================================
+
+STEP 1: Create a folder named "Hospital Management System"
+
+STEP 2: Copy these files into the folder:
+   - All .cpp files (main.cpp, User.cpp, Patient.cpp, Doctor.cpp, 
+     Appointment.cpp, Billing.cpp)
+   - All .h files (User.h, Patient.h, Doctor.h, Appointment.h, Billing.h)
+   - README.md
+   - Sample data files (.txt files)
+
+STEP 3: Zip the folder OR share via Google Drive/OneDrive
+
+STEP 4: Submit to your teacher
+
+================================================================================
+
