@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management System
 
 A complete console-based Hospital Management System developed in C++ using Object-Oriented Programming principles.
@@ -351,3 +352,7 @@ For questions or issues, please refer to the code documentation or create an iss
 
 **Note:** This is a console-based application. All interactions are through text menus and command-line input/output.
 
+=======
+# Hospital-Management-System
+Hospital Management System implemented in C++ for efficient patient, staff, and billing management.
+>>>>>>> a5f5c9c94bcfb3263544dfa144a65eb37e97f785
